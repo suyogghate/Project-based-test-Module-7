@@ -1,0 +1,2 @@
+# Project-based-test-Module-7
+An E-commerce website made using React. In this project we can buy new collection of gadgets and when we add some product to cart, the icon on the top right counter increases. This is possible with the help of hooks. Also the concept of fetching API's being used here, like the images is being fetched from the api and the email that we submit, is being stored in the firebase database.
